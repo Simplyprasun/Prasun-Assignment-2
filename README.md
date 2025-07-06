@@ -1,4 +1,4 @@
-#PRASUN ASSIGNMENT-2 (PYTHON COURSE)
+#PRASUN TUTEDUDE ASSIGNMENT - 2 (PYTHON COURSE)
 
 This repository contains the two programs related to ASSIGNMENT-2 of the Python course by TUTEDUDE.
 
